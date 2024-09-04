@@ -1,3 +1,3 @@
 # First
 This is my First repo.
-Author- Pradeep Rakesh Yadav 
+Author- Pradeep  Yadav 
